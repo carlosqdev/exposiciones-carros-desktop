@@ -1,4 +1,4 @@
-# Exposiciones de carro versión desktop
+# Exposiciones de carros versión desktop
 ## Esta es una aplicación Windows Form que es una tarea de la Universidad.
 
 ## Instrucciones
