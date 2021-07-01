@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace exposiciones_carros_desktop
 {
-    public partial class Form1 : Form
+    public partial class formularioPrincipal : Form
     {
-        public Form1()
+        public formularioPrincipal()
         {
             InitializeComponent();
         }
