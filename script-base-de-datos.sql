@@ -35,5 +35,5 @@ CREATE PROCEDURE MostrarMensajes
 )
 AS
 BEGIN
-	SELECT Id, Nombre, Mensaje from Comentarios ORDER BY Id
+	SELECT Nombre, Mensaje from Comentarios ORDER BY Id
 END
